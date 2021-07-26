@@ -17,20 +17,12 @@
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://www.w3schools.com/php/" target="_blank"> <img src="https://img.icons8.com/officexs/50/000000/php-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/></a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/></a>
+    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
 </p>
-
-## Certifications
-Dicoding [Web Developer](https://www.dicoding.com/certificates/98XW6R884XM3).\
-Dicoding [Android Developer](https://www.dicoding.com/certificates/07Z6LLL1MPQR).\
-Dicoding [Cloud Practitioner Essentials](https://www.dicoding.com/certificates/4EXGYO86DXRL).\
-Dicoding [Architecting on AWS](https://www.dicoding.com/certificates/81P22GNNJPOY).\
-Codepolitan [Tailwind CSS](https://www.codepolitan.com/c/H4J0VBG).\
-Codepolitan [Start Creating Application with Alibaba Cloud Products](https://www.codepolitan.com/c/MQB68CF).\
-Codepolitan [Setting Up Server Alibaba Cloud Elastic Compute Service](https://www.codepolitan.com/c/NGP0TZ5).
 
 <br/>
 
@@ -49,6 +41,15 @@ Codepolitan [Setting Up Server Alibaba Cloud Elastic Compute Service](https://ww
 </a>
 </p>
 <br/>
+
+## Certifications
+Dicoding [Web Developer](https://www.dicoding.com/certificates/98XW6R884XM3).\
+Dicoding [Android Developer](https://www.dicoding.com/certificates/07Z6LLL1MPQR).\
+Dicoding [Cloud Practitioner Essentials](https://www.dicoding.com/certificates/4EXGYO86DXRL).\
+Dicoding [Architecting on AWS](https://www.dicoding.com/certificates/81P22GNNJPOY).\
+Codepolitan [Tailwind CSS](https://www.codepolitan.com/c/H4J0VBG).\
+Codepolitan [Start Creating Application with Alibaba Cloud Products](https://www.codepolitan.com/c/MQB68CF).\
+Codepolitan [Setting Up Server Alibaba Cloud Elastic Compute Service](https://www.codepolitan.com/c/NGP0TZ5).
 
 ## Connect with me:
 <p align="left">
