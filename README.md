@@ -43,6 +43,7 @@
 <br/>
 
 ## Certifications
+Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/72ZDE9M79PYW).\
 Dicoding [Web Developer](https://www.dicoding.com/certificates/98XW6R884XM3).\
 Dicoding [Android Developer](https://www.dicoding.com/certificates/07Z6LLL1MPQR).\
 Dicoding [Cloud Practitioner Essentials](https://www.dicoding.com/certificates/4EXGYO86DXRL).\
