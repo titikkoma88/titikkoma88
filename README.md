@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **[E-Journal Universitas Prisma | Open Journal System (OJS)](https://jurnal.prisma.ac.id/)**
 - 🌱 I’m currently learning **Dart Programming Language**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://panjihadjarati.netlify.app/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://panjihadjarati.m)**
 - 📫 How to reach me: **[My Contact](https://bagi.to/iamPanjiHadjarati)**
 - ⚡ Fun fact: **learn new things**
 
