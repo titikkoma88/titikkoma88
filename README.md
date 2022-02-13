@@ -51,7 +51,7 @@ Dicoding [Architecting on AWS](https://www.dicoding.com/certificates/81P22GNNJPO
 Codepolitan [Tailwind CSS](https://www.codepolitan.com/c/H4J0VBG).\
 Codepolitan [Start Creating Application with Alibaba Cloud Products](https://www.codepolitan.com/c/MQB68CF).\
 Codepolitan [Setting Up Server Alibaba Cloud Elastic Compute Service](https://www.codepolitan.com/c/NGP0TZ5).\
-Codepolitan [Memahami Cara Kerja Tim IT (Agile & Framework SCRUM](https://www.codepolitan.com/c/ID71NPB).
+Codepolitan [Memahami Cara Kerja Tim IT (Agile & Framework SCRUM)](https://www.codepolitan.com/c/ID71NPB).
 
 ## Connect with me:
 <p align="left">
