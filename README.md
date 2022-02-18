@@ -45,9 +45,13 @@
 ## Certifications
 Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/72ZDE9M79PYW).\
 Dicoding [Web Developer](https://www.dicoding.com/certificates/98XW6R884XM3).\
+Dicoding [Front End](https://www.dicoding.com/certificates/MRZMK1613PYQ).\
 Dicoding [Android Developer](https://www.dicoding.com/certificates/07Z6LLL1MPQR).\
 Dicoding [Cloud Practitioner Essentials](https://www.dicoding.com/certificates/4EXGYO86DXRL).\
 Dicoding [Architecting on AWS](https://www.dicoding.com/certificates/81P22GNNJPOY).\
+Codepolitan [Laravel 7](https://www.codepolitan.com/c/8T1K0EL).\
+Codepolitan [Laravel 8](https://www.codepolitan.com/c/HNA9OXK).\
+Codepolitan [Laravel and Here Maps](https://www.codepolitan.com/c/FKPKVT4).\
 Codepolitan [Tailwind CSS](https://www.codepolitan.com/c/H4J0VBG).\
 Codepolitan [Start Creating Application with Alibaba Cloud Products](https://www.codepolitan.com/c/MQB68CF).\
 Codepolitan [Setting Up Server Alibaba Cloud Elastic Compute Service](https://www.codepolitan.com/c/NGP0TZ5).\
