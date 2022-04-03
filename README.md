@@ -5,7 +5,7 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[E-Journal Universitas Prisma | Open Journal System (OJS)](https://jurnal.prisma.ac.id/)**
+- 🔭 I’m currently working on **[ Integrated Coaching Learning & Business Platform on Artificial Intelligence | Hijrah Coach ](http://hijrahcoach.co.id/)**
 - 🌱 I’m currently learning **Dart Programming Language**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://panjihadjarati.com)**
