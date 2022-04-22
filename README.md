@@ -51,6 +51,7 @@ Dicoding [Web Developer](https://www.dicoding.com/certificates/98XW6R884XM3).\
 Dicoding [Front End](https://www.dicoding.com/certificates/MRZMK1613PYQ).\
 Dicoding [Back End](https://www.dicoding.com/certificates/81P229WK8POY).\
 Dicoding [Android Developer](https://www.dicoding.com/certificates/07Z6LLL1MPQR).\
+Dicoding [Flutter Developer](https://www.dicoding.com/certificates/81P2G112OPOY).\
 Dicoding [Cloud Practitioner Essentials](https://www.dicoding.com/certificates/4EXGYO86DXRL).\
 Dicoding [Architecting on AWS](https://www.dicoding.com/certificates/81P22GNNJPOY).\
 Codepolitan [PHP Fundamental](https://www.codepolitan.com/c/N3GU5AO).\
