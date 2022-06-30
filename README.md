@@ -22,7 +22,6 @@
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/></a>
-    <a href="https://go.dev/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/javascript--v2.png"/></a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
 </p>
@@ -46,14 +45,16 @@
 <br/>
 
 ## Certifications
+CEAA [Certified Enterprise Architecture Associate](https://www.credential.net/ccf921b5-67ad-4cd1-9b45-dea19868e37f#gs.4zgzvr).\
 Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/72ZDE9M79PYW).\
 Dicoding [Web Developer](https://www.dicoding.com/certificates/98XW6R884XM3).\
 Dicoding [Front End](https://www.dicoding.com/certificates/MRZMK1613PYQ).\
 Dicoding [Back End](https://www.dicoding.com/certificates/81P229WK8POY).\
 Dicoding [Android Developer](https://www.dicoding.com/certificates/07Z6LLL1MPQR).\
 Dicoding [Flutter Developer](https://www.dicoding.com/certificates/81P2G112OPOY).\
-Dicoding [Cloud Practitioner Essentials](https://www.dicoding.com/certificates/4EXGYO86DXRL).\
+Dicoding [Cloud Practitioner Essentials, AWS Cloud Basics](https://www.dicoding.com/certificates/4EXGYO86DXRL).\
 Dicoding [Architecting on AWS](https://www.dicoding.com/certificates/81P22GNNJPOY).\
+Dicoding [Google Cloud Basics](https://www.dicoding.com/certificates/1OP86WJKQXQK).\
 Codepolitan [PHP Fundamental](https://www.codepolitan.com/c/N3GU5AO).\
 Codepolitan [Go-Lang Fundamental](https://www.codepolitan.com/c/UFRVGO0).\
 Codepolitan [MySQL](https://www.codepolitan.com/c/APGS5VW).\
