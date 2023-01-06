@@ -52,9 +52,11 @@ Dicoding [Front End](https://www.dicoding.com/certificates/MRZMK1613PYQ).\
 Dicoding [Back End](https://www.dicoding.com/certificates/81P229WK8POY).\
 Dicoding [Android Developer](https://www.dicoding.com/certificates/07Z6LLL1MPQR).\
 Dicoding [Flutter Developer](https://www.dicoding.com/certificates/81P2G112OPOY).\
+Dicoding [Belajar Dasar Jaringan Komputer](https://www.dicoding.com/certificates/NVP795N54ZR0).\
 Dicoding [Cloud Practitioner Essentials, AWS Cloud Basics](https://www.dicoding.com/certificates/4EXGYO86DXRL).\
 Dicoding [Architecting on AWS](https://www.dicoding.com/certificates/81P22GNNJPOY).\
 Dicoding [Google Cloud Basics](https://www.dicoding.com/certificates/1OP86WJKQXQK).\
+Dicoding [Learn DevOps Basics](https://www.dicoding.com/certificates/07Z6G3742XQR).\
 Codepolitan [PHP Fundamental](https://www.codepolitan.com/c/N3GU5AO).\
 Codepolitan [Go-Lang Fundamental](https://www.codepolitan.com/c/UFRVGO0).\
 Codepolitan [MySQL](https://www.codepolitan.com/c/APGS5VW).\
