@@ -46,6 +46,7 @@
 
 ## Certifications
 CEAA [Certified Enterprise Architecture Associate](https://www.credential.net/ccf921b5-67ad-4cd1-9b45-dea19868e37f#gs.4zgzvr).\
+Coursera [Google Data Analytics](https://coursera.org/share/cdfe23efc4a2282a7129607f3fc7ef87).\
 Dicoding [Belajar Dasar Git dengan GitHub](https://www.dicoding.com/certificates/72ZDE9M79PYW).\
 Dicoding [Web Developer](https://www.dicoding.com/certificates/98XW6R884XM3).\
 Dicoding [Front End](https://www.dicoding.com/certificates/MRZMK1613PYQ).\
@@ -57,6 +58,7 @@ Dicoding [Cloud Practitioner Essentials, AWS Cloud Basics](https://www.dicoding.
 Dicoding [Architecting on AWS](https://www.dicoding.com/certificates/81P22GNNJPOY).\
 Dicoding [Google Cloud Basics](https://www.dicoding.com/certificates/1OP86WJKQXQK).\
 Dicoding [Learn DevOps Basics](https://www.dicoding.com/certificates/07Z6G3742XQR).\
+Dicoding [Project Management Basics](https://www.dicoding.com/certificates/RVZKKV50OZD5).\
 Codepolitan [PHP Fundamental](https://www.codepolitan.com/c/N3GU5AO).\
 Codepolitan [Go-Lang Fundamental](https://www.codepolitan.com/c/UFRVGO0).\
 Codepolitan [MySQL](https://www.codepolitan.com/c/APGS5VW).\
