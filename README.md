@@ -5,8 +5,8 @@
 
 
 ## 🙋‍♂️ About Me
-- 🔭 I’m currently working on **[ Integrated Coaching Learning & Business Platform on Artificial Intelligence | Hijrah Coach ](http://hijrahcoach.co.id/)**
-- 🌱 I’m currently learning **Dart Programming Language**
+- 🔭 I’m currently working on **[ Integrated Coaching Learning & Business Platform on Artificial Intelligence (HADE AI) | Hijrah Coach ](http://hijrahcoach.co.id/)**
+- 🌱 I’m currently learning **Enterprise Architecture**
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://panjihadjarati.com)**
 - 📫 How to reach me: **[My Contact](https://bagi.to/iamPanjiHadjarati)**
